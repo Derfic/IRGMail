@@ -1,0 +1,2 @@
+# IRGMail
+Java school project
